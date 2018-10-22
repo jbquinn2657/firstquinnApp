@@ -1,0 +1,7 @@
+{
+  "name": "quinnApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
